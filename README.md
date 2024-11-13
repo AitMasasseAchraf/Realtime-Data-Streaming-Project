@@ -38,8 +38,6 @@ The project is designed with the following components:
 - Docker
 
 
-    ```
-
 
 
 
